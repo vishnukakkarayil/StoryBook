@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/stories-button-stories.5b04297f.chunk.css","mappings":"AAAA;AACA;AACA","sources":["webpack://storybook/./src/components/button-style.css"],"sourcesContent":["button{\r\ncolor: aliceblue;\r\n}"],"names":[],"sourceRoot":""}
